@@ -5,14 +5,24 @@
     <projectFile>Intermediate/ProjectFiles/UE4.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f74d02d-dc84-429b-bff3-8535999b74a2" name="Default Changelist" comment="" />
+    <list default="true" id="6f74d02d-dc84-429b-bff3-8535999b74a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/MyFirstActor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/MyFirstActor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CPPCookBook/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPPCookBook/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CPPCookBook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPPCookBook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/BP_UserProfile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/BP_UserProfile.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Source/CPPCookBook/Public/UserProfile.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/CPPCookBook/MyFirstActor.generated.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -24,15 +34,22 @@
         <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/ColoredTexture.h" />
         <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/CharacterState.h" />
         <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/UserProfile.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/MyFirstActor.h" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1jYYFRaQtlZWAywzc0afLm2KpQw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34995976" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30008045" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -260,25 +277,103 @@
       <option name="presentableId" value="Default" />
       <updated>1603982390119</updated>
       <workItem from="1603982394238" duration="6774000" />
+      <workItem from="1604083951443" duration="593000" />
+      <workItem from="1604090315258" duration="1590000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="2517" height="518" key="GridCell.Tab.0.bottom" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.0.center" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.0.left" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.0.right" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.1.bottom" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.1.center" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.1.left" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.1.right" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.2.bottom" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.2.center" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.2.left" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.2.right" timestamp="1604094968156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
+    <state width="2517" height="518" key="GridCell.Tab.3.bottom" timestamp="1604094968157">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968157" />
+    <state width="2517" height="518" key="GridCell.Tab.3.center" timestamp="1604094968157">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968157" />
+    <state width="2517" height="518" key="GridCell.Tab.3.left" timestamp="1604094968157">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968157" />
+    <state width="2517" height="518" key="GridCell.Tab.3.right" timestamp="1604094968157">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="518" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968157" />
     <state x="872" y="432" key="Rider.ProjectTemplateDialog.Size" timestamp="1604003789569">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="432" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1400@0.0.2560.1400" timestamp="1604003789569" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1604004201898">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1604090366520">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1604004201898" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1604090366520" />
   </component>
 </project>
