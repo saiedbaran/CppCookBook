@@ -4,13 +4,62 @@
     <projectFile>Intermediate/ProjectFiles/CPPCookBook.vcxproj</projectFile>
     <projectFile>Intermediate/ProjectFiles/UE4.vcxproj</projectFile>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6f74d02d-dc84-429b-bff3-8535999b74a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/MyFirstActor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/MyFirstActor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/BP_HandActor.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/BP_MyFirstActor.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/BP_RandomMovementActor.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/BP_UE4CookBookGameModeBase.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/BP_VRPawn.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/BP_WarriorActor.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/Inventory/BP_Box_InventoryActor.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/Inventory/BP_Sphere_InventoryActor.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/TestPawn.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Material/MI_Color_Red.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/CppCookBook/Material/M_Color.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/HandActor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/HandSceneComponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/InventoryActor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/InventoryCharacter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/InventoryComponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/RandomMovementComponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/UE4CookBookGameModeBase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/VRPawn.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/WarriorActor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/HandActor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/HandSceneComponent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/InventoryActor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/InventoryCharacter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/InventoryComponent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/RandomMovementComponent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/UE4CookBookGameModeBase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/VRPawn.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/WarriorActor.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CPPCookBook/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPPCookBook/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CPPCookBook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPPCookBook/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/BP_UserProfile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CppCookBook/Blueprint/BP_UserProfile.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CPPCookBook/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPPCookBook/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/CppCookBook/Map/Minimal_Defaults.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CppCookBook/Map/Minimal_Defaults.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/CPPCookBook/Private/MyFirstActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CPPCookBook/Private/MyFirstActor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/CPPCookBook/Public/MyFirstActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CPPCookBook/Public/MyFirstActor.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +83,27 @@
         <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/ColoredTexture.h" />
         <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/CharacterState.h" />
         <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/UserProfile.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/TestClass.h" />
         <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/MyFirstActor.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Private/MyFirstActor.cpp" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/UE4CookBookGameModeBase.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Private/UE4CookBookGameModeBase.cpp" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Private/WarriorActor.cpp" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/WarriorActor.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/RandomMovementComponent.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Private/RandomMovementComponent.cpp" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/HandActor.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Private/HandActor.cpp" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/HandSceneComponent.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Private/HandSceneComponent.cpp" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/VRPawn.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Private/VRPawn.cpp" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/InventoryComponent.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Private/InventoryComponent.cpp" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/InventoryActor.h" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Private/InventoryActor.cpp" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Private/InventoryCharacter.cpp" />
+        <option value="$PROJECT_DIR$/Source/CPPCookBook/Public/InventoryCharacter.h" />
       </list>
     </option>
   </component>
@@ -278,7 +347,9 @@
       <updated>1603982390119</updated>
       <workItem from="1603982394238" duration="6774000" />
       <workItem from="1604083951443" duration="593000" />
-      <workItem from="1604090315258" duration="1590000" />
+      <workItem from="1604090315258" duration="1864000" />
+      <workItem from="1604226641706" duration="15357000" />
+      <workItem from="1604346355888" duration="4575000" />
     </task>
     <servers />
   </component>
@@ -297,83 +368,103 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2517" height="518" key="GridCell.Tab.0.bottom" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.0.bottom" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.0.center" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.0.center" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.0.left" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.0.left" timestamp="1604331883611">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.0.right" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883611" />
+    <state width="2517" height="518" key="GridCell.Tab.0.right" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.1.bottom" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.1.bottom" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.1.center" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.1.center" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.1.left" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.1.left" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.1.right" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.1.right" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.2.bottom" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.2.bottom" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.2.center" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.2.center" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.2.left" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.2.left" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.2.right" timestamp="1604094968156">
+    <state width="2517" height="518" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.2.right" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968156" />
-    <state width="2517" height="518" key="GridCell.Tab.3.bottom" timestamp="1604094968157">
+    <state width="2517" height="518" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.3.bottom" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968157" />
-    <state width="2517" height="518" key="GridCell.Tab.3.center" timestamp="1604094968157">
+    <state width="2517" height="518" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.3.center" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968157" />
-    <state width="2517" height="518" key="GridCell.Tab.3.left" timestamp="1604094968157">
+    <state width="2517" height="518" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.3.left" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968157" />
-    <state width="2517" height="518" key="GridCell.Tab.3.right" timestamp="1604094968157">
+    <state width="2517" height="518" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
+    <state width="2517" height="518" key="GridCell.Tab.3.right" timestamp="1604331883612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="518" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604094968157" />
+    <state width="2517" height="518" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604331883612" />
     <state x="872" y="432" key="Rider.ProjectTemplateDialog.Size" timestamp="1604003789569">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="432" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1400@0.0.2560.1400" timestamp="1604003789569" />
+    <state x="1094" y="406" key="RiderGenerateDialog" timestamp="1604347052686">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1094" y="406" key="RiderGenerateDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604347052686" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1604255246953">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1604255246953" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1604090366520">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1604090366520" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Source/CPPCookBook/Private/VRPawn.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
